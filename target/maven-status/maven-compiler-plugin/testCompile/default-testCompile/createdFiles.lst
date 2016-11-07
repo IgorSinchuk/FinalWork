@@ -1,0 +1,7 @@
+com\homework\service\EmployeeServiceTest.class
+com\homework\service\IngredientServiceTest.class
+com\homework\service\OrderServiceTest.class
+com\homework\service\DishServiceTest.class
+com\homework\service\MenuServiceTest.class
+com\homework\service\PositionServiceTest.class
+com\homework\service\KitchenJournalServiceTest.class
